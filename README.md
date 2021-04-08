@@ -1,2 +1,2 @@
 # hello-world
-Learning repository
+This is a test of the github readme edit process.
